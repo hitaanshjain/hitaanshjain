@@ -1,7 +1,7 @@
 # Hey, I'm Hitaansh! 👋
 
 I am a CS Student at **NYU** focusing on **Full-stack Engineering, Systems, & Game Development**.
-Currently seeking **Software Engineering Internships for Summer 2026**.
+Currently seeking **New Grad Software Engineering Roles starting Summer 2027**.
 
 ---
 
